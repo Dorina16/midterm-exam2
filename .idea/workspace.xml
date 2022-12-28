@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="63eb5d9e-431b-41bc-b172-81528905b4e5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/midterm-coding-exam" beforeDir="false" afterPath="$PROJECT_DIR$/midterm-coding-exam" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/midterm-coding-exam/src/datastructure/UseArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/midterm-coding-exam/src/datastructure/UseArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/midterm-coding-exam/src/datastructure/UseMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/midterm-coding-exam/src/datastructure/UseMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/midterm-coding-exam/src/definition/core-java-conceptual-questions" beforeDir="false" afterPath="$PROJECT_DIR$/midterm-coding-exam/src/definition/core-java-conceptual-questions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/midterm-coding-exam/src/definition/data-structure-questions" beforeDir="false" afterPath="$PROJECT_DIR$/midterm-coding-exam/src/definition/data-structure-questions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/midterm-coding-exam/src/math/problems/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/midterm-coding-exam/src/math/problems/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/midterm-coding-exam/src/math/problems/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/midterm-coding-exam/src/math/problems/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/midterm-coding-exam/src/string/problems/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/midterm-coding-exam/src/string/problems/Anagram.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/midterm-coding-exam" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
